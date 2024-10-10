@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed Rasmin\\source\\repos\\Project 1\\Project 1\\Project 1.csproj": {}
+    "F:\\repos\\Project 1\\Project 1\\Project 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed Rasmin\\source\\repos\\Project 1\\Project 1\\Project 1.csproj": {
+    "F:\\repos\\Project 1\\Project 1\\Project 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed Rasmin\\source\\repos\\Project 1\\Project 1\\Project 1.csproj",
+        "projectUniqueName": "F:\\repos\\Project 1\\Project 1\\Project 1.csproj",
         "projectName": "Project 1",
-        "projectPath": "C:\\Users\\Mohamed Rasmin\\source\\repos\\Project 1\\Project 1\\Project 1.csproj",
+        "projectPath": "F:\\repos\\Project 1\\Project 1\\Project 1.csproj",
         "packagesPath": "C:\\Users\\Mohamed Rasmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed Rasmin\\source\\repos\\Project 1\\Project 1\\obj\\",
+        "outputPath": "F:\\repos\\Project 1\\Project 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
